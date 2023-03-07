@@ -1,0 +1,25 @@
+.wrapper {
+    margin-top: 4rem;
+
+    .hero-id {
+        margin: 1rem 0;
+    }
+
+    .hero-name {
+        label {
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+
+        input {
+            border: 2px solid black;
+            padding: 1rem;
+            margin-bottom: 2rem;
+        }
+    }
+}
+button {
+    padding: 1rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}

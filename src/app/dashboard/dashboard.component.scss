@@ -1,0 +1,20 @@
+h2 {
+    margin-top: 2rem;
+}
+
+.heroes-menu {
+    margin: 2rem 0;
+
+    a {
+        padding: 1rem;
+        background-color: #ccc;
+        margin-right: 1rem;
+        text-decoration: none;
+        color: black;
+
+        &:hover {
+            background-color: plum;
+            color: white;
+        }
+    }
+}
